@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { StyleSheet, Text, View, FlatList, Image, Dimensions, TouchableOpacity } from "react-native";
-import Gallery from "react-native-image-gallery-list";
+import Gallery from "react-native-image-gallery";
 
 const SCREEN_WIDTH = Dimensions.get("window").width;
 const IMG_MARGIN = 18;
